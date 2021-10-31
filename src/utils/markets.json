@@ -886,5 +886,12 @@
     "serumV3Usdc": "BnbZn344JTBaSdXUBh111935hA7UjnJe973AirirSzJz",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "raydiumV4AMM": null
+  }, {
+    "symbol": "AURY",
+    "tokenMint": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
+    "decimals": 6,
+    "serumV3Usdc": "461R7gK9GK1kLUXQbHgaW9L6PESQFSLGxKXahvcHEJwD",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "raydiumV4AMM": null
   }
 ]
